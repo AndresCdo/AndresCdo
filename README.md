@@ -1,9 +1,22 @@
-- 👋 Hi, I’m @AndresCdo
-- 👀 I'm interested in Backend Development for Data Analysis, and the intensive use of new technologies such as Quantum Computing.
-- 🌱 I'm currently learning some modern programming languages like Go and Rust.
-- 💞️ I'm looking to collaborate on projects of all kinds that are familiar with Embedded Systems, Internet of Things and Big Data.
-- 📫 How to reach me: andrezz1997@gmail.com
+# Andres Caicedo
 
+Hi there! I'm Andres, a Backend Developer with a passion for Data Analysis and the use of new technologies such as Quantum Computing. I'm currently expanding my skills by learning modern programming languages like Go and Rust.
+
+
+## Interests
++ Backend Development for Data Analysis
++ Quantum Computing
++ Embedded Systems
++ Internet of Things
++ Big Data
+
+## Collaboration
+I'm always looking for exciting projects to collaborate on. Feel free to reach out if you have something in mind!
+
+## Contact
++ Email: andrezz1997@gmail.com
+
+## GitHub Stats
 <!---
 Kaiser-bit/Kaiser-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
