@@ -1,20 +1,21 @@
 # Andres Caicedo
 
-Hi there! I'm Andres, a Backend Developer with a passion for Data Analysis and the use of new technologies such as Quantum Computing. I'm currently expanding my skills by learning modern programming languages like Go and Rust.
+Hello, I'm Andres, a DevOps Analyst with experience in backend development, cloud computing, and data analysis. I have a passion for emerging technologies such as quantum computing and the internet of things. I'm also proficient in modern programming languages like Python and Java.
 
 
 ## Interests
-+ Backend Development for Data Analysis
-+ Quantum Computing
-+ Embedded Systems
-+ Internet of Things
-+ Big Data
++ DevOps
++ Cloud Computing
++ Data Analysis
++ Emerging Technologies
++ Programming Languages
 
 ## Collaboration
-I'm always looking for exciting projects to collaborate on. Feel free to reach out if you have something in mind!
+I'm interested in collaborating on exciting projects that leverage my skills and expertise. If you have something in mind, feel free to reach out!
 
 ## Contact
 + Email: andrezz1997@gmail.com
++ GitHub: github.com/andrescaicedo
 
 ## GitHub Stats
 <!---
