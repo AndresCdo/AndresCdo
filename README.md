@@ -2,7 +2,7 @@
 
 👋 Hi there! I'm Andres, a highly skilled DevOps Analyst with a solid background in backend development, cloud computing, and data analysis. I'm deeply passionate about exploring emerging technologies, including quantum computing and the Internet of Things (IoT), as I firmly believe that they hold the key to shaping the future.
 
-🛠️ My technical expertise spans across modern programming languages such as Python and Java, which I use to develop efficient, maintainable, and scalable solutions. I'm also experienced in leveraging tools and frameworks like Docker, Kubernetes, and Jenkins to streamline the software development lifecycle.
+🛠️ My technical expertise spans modern programming languages such as Python and Java, which I use to develop efficient, maintainable, and scalable solutions. I'm also experienced in leveraging tools and frameworks like Docker, Kubernetes, and Jenkins to streamline the software development lifecycle.
 
 💡 I'm always eager to learn and stay updated with the latest industry trends, constantly pushing the boundaries of my knowledge to deliver top-notch solutions. I enjoy collaborating with cross-functional teams, sharing my insights, and working together to overcome challenges.
 
