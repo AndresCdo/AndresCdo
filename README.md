@@ -11,18 +11,15 @@
 Feel free to connect with me and let's explore the fascinating world of technology together!
 
 ## Contact
++ LinkedIn: [Andres Caicedo](https://linkedin.com/in/andrescdo)
 + Email: andrezz1997@gmail.com
-+ GitHub: github.com/andrescaicedo
++ GitHub: github.com/AndresCdo
 
 ## GitHub Stats
 <!---
 Kaiser-bit/Kaiser-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![Andres's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndresCdo&show_icons=true&theme=tokyonight)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AndresCdo&show_icons=true&theme=dark" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndresCdo&layout=compact&theme=dark" />
-</a>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresCdo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
