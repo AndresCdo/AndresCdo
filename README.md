@@ -47,7 +47,6 @@ Feel free to connect with me and let's explore the fascinating world of technolo
 
 ## Contact
 + LinkedIn: [Andres Caicedo](https://linkedin.com/in/andrescdo)
-+ Email: andrezz1997@gmail.com
 + GitHub: [AndresCdo](https://github.com/AndresCdo)
 
 ## GitHub Stats
