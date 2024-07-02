@@ -1,5 +1,9 @@
 # Andres Caicedo
 
+## About Me
+👋 Hello! I'm Andres, a DevOps Analyst with a strong foundation in backend development, cloud computing, and data analysis. I'm passionate about emerging technologies like quantum computing and IoT, believing they're key to shaping our future.
+
+## Skills
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
@@ -32,29 +36,26 @@
   <img src="https://skillicons.dev/icons?i=azure" height="40" alt="azure logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="nginx logo"  />
-  <img width="12" />
 </div>
 
-👋 Hi there! I'm Andres, a highly skilled DevOps Analyst with a solid background in backend development, cloud computing, and data analysis. I'm deeply passionate about exploring emerging technologies, including quantum computing and the Internet of Things (IoT), as I firmly believe that they hold the key to shaping the future.
+## Technical Expertise
+- **Languages**: Python, Java, JavaScript, TypeScript
+- **DevOps Tools**: Docker, Kubernetes, Jenkins
+- **Cloud Platforms**: AWS, Google Cloud, Azure
+- **Other Tools**: Ansible, Terraform, NGINX
 
-🛠️ My technical expertise spans modern programming languages such as Python and Java, which I use to develop efficient, maintainable, and scalable solutions. I'm also experienced in leveraging tools and frameworks like Docker, Kubernetes, and Jenkins to streamline the software development lifecycle.
+## What I Do
+- 🛠️ Develop efficient, maintainable, and scalable solutions
+- 💡 Stay updated with the latest industry trends
+- 🤝 Collaborate with cross-functional teams
+- 🌐 Contribute to open-source projects (currently working on [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT))
+- 📢 Engage with the developer community through blog posts and podcasts
 
-💡 I'm always eager to learn and stay updated with the latest industry trends, constantly pushing the boundaries of my knowledge to deliver top-notch solutions. I enjoy collaborating with cross-functional teams, sharing my insights, and working together to overcome challenges.
-
-🌐 Outside of work, I contribute to open-source projects, attend tech conferences, and engage with the developer community through blog posts and podcasts. I'm currently contributing to the [Auto-GPT](https://github.com/Significant-Gravitas/Auto-GPT) project, an exciting initiative in the field of artificial intelligence and natural language processing. I'm committed to using technology as a force for good and making a positive impact in the world.
-
-Feel free to connect with me and let's explore the fascinating world of technology together!
-
-## Contact
-+ LinkedIn: [Andres Caicedo](https://linkedin.com/in/andrescdo)
-+ GitHub: [AndresCdo](https://github.com/AndresCdo)
+## Connect With Me
+- LinkedIn: [Andres Caicedo](https://linkedin.com/in/andrescdo)
+- GitHub: [AndresCdo](https://github.com/AndresCdo)
 
 ## GitHub Stats
-<!---
-Kaiser-bit/Kaiser-bit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AndresCdo&show_icons=true&theme=tokyonight" />
@@ -63,4 +64,4 @@ You can click the Preview link to take a look at your changes.
   <img src="https://github-profile-trophy.vercel.app?username=AndresCdo&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
-###
+Let's explore the fascinating world of technology together!
